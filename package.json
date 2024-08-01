@@ -69,7 +69,7 @@
     "@ethersproject/web": "^5.7.0",
     "axios": "^1.6.5",
     "sturdy-websocket": "^0.2.1",
-    "websocket": "^1.0.34"
+    "websocket": "^1.0.35"
   },
   "devDependencies": {
     "@rollup/plugin-commonjs": "^22.0.0",
